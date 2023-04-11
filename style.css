@@ -1,4 +1,16 @@
-header{
+.cabecalho{
     background:#ABECE4;
     color: rebeccapurple;
+}
+.logo{
+    width: 100px;
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+.listacabecalho{
+    display: flexbox;    
+}
+.item{
+    font-size: 50px;
 }
