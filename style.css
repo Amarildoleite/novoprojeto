@@ -13,4 +13,19 @@
 }
 .item{
     font-size: 50px;
+    margin-left: 60px;
+}
+.listacabecalho{
+    display: flex;
+    position: relative;
+    left: 600px;
+}
+.grupoestudo-alura{
+    position: absolute;
+    width: 306px;
+    height: 304px;
+    left: 948px;
+}
+.grupoestudo{
+    background-image: linear-gradient(#00CCEE, #00DDFF);
 }
