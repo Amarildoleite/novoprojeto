@@ -30,7 +30,7 @@ else {
 }
 
 
-/**
+/** 
 let idade = 18;
 if (idade >= 18) {
     console.log("Você pode entrar")
@@ -49,6 +49,6 @@ for(let contador=0; contador < listadeTeclas.length; contador++){
     const idAudio =`#som_${efeito}`;
     teclas.onclick = function(){
         tocaSom(idAudio)
-    }     
-}**/
+    } */     
+
 
